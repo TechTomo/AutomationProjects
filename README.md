@@ -11,3 +11,5 @@ This are Hackathon projects:
 
 4. BookCab (makemytrip.com)  -> Book one way outstation cab, From Delhi to Manali, himachal Pradesh, give future date & time & Car type should be SUV; Display the lowest charges.  Find Group Gifting in Gift Cards, fill card details & give invalid email; capture & display the error message. On the Hotel booking page, extract all the numbers for Adult persons and store in a List; Display the same.
 
+5. TravelInsurance (policybazar.com) -> Find travel insurance plan for students, for 2 people (Age 22 & 21) & any European country, fill further dummy details & display three lowest international  travel insurance plan with amount and insurance provider company. Get a Car Insurance quote, proceed without  car number, keep filling details, give invalid email or phone number & capture the error message. Retrieve all Health Insurance menu items and store in a List; Display the same. 
+
